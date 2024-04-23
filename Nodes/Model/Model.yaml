@@ -81,3 +81,5 @@ Children:
       DataType: Double
       ReferenceType: HasProperty
       Value: 0.0
+- Name: Object1
+  Type: BaseObjectType
