@@ -83,3 +83,7 @@ Children:
       Value: 0.0
 - Name: Object1
   Type: BaseObjectType
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0

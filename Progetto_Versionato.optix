@@ -40,10 +40,10 @@ Project:
    Module: FTOptix.Recipe
    Version: 1.0
  Statistics:
-  TotalNodeCount: 147
-  Objects: 71
+  TotalNodeCount: 151
+  Objects: 72
   ObjectTypes: 2
-  Variables: 74
+  Variables: 77
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
