@@ -235,16 +235,4 @@ Children:
       Type: DynamicLink
       DataType: NodePath
       Value: "/Objects/Progetto_Versionato@BrowseName"
-  - Name: TextBox1
-    Type: TextBox
-    Children:
-    - Name: Text
-      Type: BaseDataVariableType
-      DataType: LocalizedText
-      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
-    - Name: Width
-      Type: BaseVariableType
-      DataType: Size
-      ModellingRule: Optional
-      Value: 110.0
 - File: Screens/Screens.yaml

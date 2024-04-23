@@ -35,15 +35,19 @@ Project:
    Uri: 'urn:FTOptix:Alarm'
    Module: FTOptix.Alarm
    Version: 2.0
+  9:
+   Uri: 'urn:FTOptix:Recipe'
+   Module: FTOptix.Recipe
+   Version: 1.0
  Statistics:
-  TotalNodeCount: 125
-  Objects: 68
+  TotalNodeCount: 142
+  Objects: 69
   ObjectTypes: 1
-  Variables: 56
+  Variables: 72
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
-  References: 3
+  References: 15
   ReferenceTypes: 0
   Files: 20
  Nodes:
