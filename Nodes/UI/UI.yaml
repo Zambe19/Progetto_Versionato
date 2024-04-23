@@ -235,4 +235,17 @@ Children:
       Type: DynamicLink
       DataType: NodePath
       Value: "/Objects/Progetto_Versionato@BrowseName"
+  - Name: Label1
+    Type: Label
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label1"}
+    - Name: FontSize
+      Type: BaseDataVariableType
+      DataType: Size
+      ModellingRule: Optional
+      Value: 65.0
 - File: Screens/Screens.yaml

@@ -81,3 +81,7 @@ Children:
       DataType: Double
       ReferenceType: HasProperty
       Value: 0.0
+- Name: Variable2
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
